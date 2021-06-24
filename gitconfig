@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dani.femenias@gmail.com
+	name = Daniela Femenias
